@@ -1,0 +1,127 @@
+{
+  "settings": {
+    "name": "ROEUY STORE",
+    "logo": "",
+    "favicon": "",
+    "primary": "#ed8fb2",
+    "secondary": "#9bdbaf",
+    "background": "#f8f8f3",
+    "textColor": "#17251f",
+    "buttonStyle": "pill",
+    "radius": 24,
+    "animations": true,
+    "hero": {
+      "titleKh": "បង្កើនសមត្ថភាពតុរបស់អ្នក។ បង្ហាញស្ទីលរបស់អ្នក។",
+      "titleEn": "Upgrade Your Setup. Upgrade Your Style.",
+      "subtitleKh": "គ្រឿងបន្លាស់ពិសេស សម្រាប់ជីវិតឌីជីថលរបស់អ្នក។",
+      "subtitleEn": "Premium accessories for your digital lifestyle.",
+      "buttonKh": "ទិញឥឡូវនេះ",
+      "buttonEn": "Shop Now",
+      "buttonUrl": "shop.html",
+      "image": "",
+      "overlay": 0.35,
+      "animation": true
+    },
+    "wallpaper": {
+      "image": "",
+      "opacity": 0.9,
+      "position": "center center",
+      "size": "cover"
+    },
+    "about": {
+      "eyebrowKh": "រឿងរ៉ាវរបស់យើង",
+      "eyebrowEn": "OUR STORY",
+      "titleKh": "របស់តូចៗ ដែលផ្លាស់ប្តូរថ្ងៃរបស់អ្នក។",
+      "titleEn": "Little details. Better every day.",
+      "introKh": "ROEUY STORE ជ្រើសរើសគ្រឿងបន្លាស់ឌីជីថល ដែលស្រស់ស្អាត និងមានប្រយោជន៍សម្រាប់រាល់ថ្ងៃ។",
+      "introEn": "ROEUY STORE curates thoughtful digital accessories that make your everyday setup feel a little more you.",
+      "sellKh": "ពីក្តារចុច ដល់គ្រឿងបន្លាស់តុធ្វើការ យើងនាំមកនូវផលិតផលដែលមានស្ទីល និងប្រើប្រាស់បានពិតប្រាកដ។",
+      "sellEn": "From keyboards to desk essentials, we bring together pieces that look good and work beautifully.",
+      "whyKh": "រចនាស្អាត គុណភាពយកចិត្តទុកដាក់ និងការឆ្លើយតបរហ័ស។",
+      "whyEn": "Thoughtful design, considered quality, and friendly, fast responses."
+    },
+    "contact": {
+      "telegram": "roeuy_store",
+      "facebook": "https://facebook.com/",
+      "email": "hello@roeuy.store",
+      "phone": "+855 12 345 678",
+      "instagram": "https://instagram.com/"
+    },
+    "footer": {
+      "descriptionKh": "គ្រឿងបន្លាស់តូចៗ សម្រាប់គំនិតធំៗ។",
+      "descriptionEn": "Little upgrades for big ideas.",
+      "quickKh": "តំណរហ័ស",
+      "quickEn": "Quick Links",
+      "supportKh": "ជំនួយអតិថិជន",
+      "supportEn": "Customer Support",
+      "copyright": "© 2026 ROEUY STORE",
+      "ornamentKh": "បង្កើតសម្រាប់រាល់ថ្ងៃ",
+      "ornamentEn": "Made for your everyday",
+      "bottomNoteKh": "Pink × Green · ROEUY FLOW UI",
+      "bottomNoteEn": "Pink × Green · ROEUY FLOW UI"
+    },
+    "translations": {
+      "kh": {},
+      "en": {}
+    }
+  },
+  "categories": [
+    {
+      "id": "keyboard",
+      "kh": "ក្តារចុច",
+      "en": "Keyboard"
+    },
+    {
+      "id": "phone-arm",
+      "kh": "ដៃទ្រទូរស័ព្ទ",
+      "en": "Phone Arm"
+    },
+    {
+      "id": "usb-adapter",
+      "kh": "អាដាប់ទ័រ USB",
+      "en": "USB Adapter"
+    },
+    {
+      "id": "accessories",
+      "kh": "គ្រឿងបន្លាស់",
+      "en": "Accessories"
+    },
+    {
+      "id": "other",
+      "kh": "ផលិតផលផ្សេងៗ",
+      "en": "Other Products"
+    }
+  ],
+  "banner": [
+    {
+      "id": "b1",
+      "kh": "✦ ផលិតផលថ្មី",
+      "en": "✦ NEW PRODUCTS",
+      "enabled": true
+    },
+    {
+      "id": "b2",
+      "kh": "⚡ បញ្ចុះតម្លៃពិសេស",
+      "en": "⚡ SPECIAL SALE",
+      "enabled": true
+    },
+    {
+      "id": "b3",
+      "kh": "💚 ROEUY STORE",
+      "en": "💚 ROEUY STORE",
+      "enabled": true
+    },
+    {
+      "id": "b4",
+      "kh": "↗ ដឹកជញ្ជូនរហ័ស",
+      "en": "↗ FAST DELIVERY",
+      "enabled": true
+    },
+    {
+      "id": "b5",
+      "kh": "✨ គុណភាពខ្ពស់",
+      "en": "✨ PREMIUM QUALITY",
+      "enabled": true
+    }
+  ]
+}
